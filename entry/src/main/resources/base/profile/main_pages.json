@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/FirstSignInPage",
+    "pages/SignPage",
+    "pages/registerPage",
+    "pages/searchFriendPage",
+    "pages/CommunicationPage",
+    "pages/addUserPage",
+    "pages/UserHomePage",
+    "pages/newFriendListPage"
+  ]
+}
